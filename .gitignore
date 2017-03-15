@@ -1,0 +1,21 @@
+Thumbs.db
+
+.vscode/
+challenge.jpg
+*.docx
+
+# General
+# =======
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.tmp
+*.bak
+*.swp
+
+.sublime-project
+*.sublime-project
+*.sublime-workspace
